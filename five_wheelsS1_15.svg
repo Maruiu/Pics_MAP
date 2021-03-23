@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -517,7 +517,7 @@
          y="-457.5083"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.5694px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">15</tspan></text>
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:0.25;stroke:#000000;stroke-width:0.35076;stroke-opacity:0.501961"
+       style="opacity:1;fill:#000000;fill-opacity:0.25;stroke:#000000;stroke-width:0.35076;stroke-opacity:0.25"
        id="rect923"
        width="222.97029"
        height="215.45381"
